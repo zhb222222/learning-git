@@ -1,6 +1,9 @@
-# learning-git
- This is the first, and probably the second repository I create to learn git
+# Practice with Git & GitHub
 
-Hello, World!
+This is a repository to practice with git and familizrize me with github.
 
-This is a demo project for learning how to use Git.
+# Main reference
+
+The main reference is the book Pro Git. 
+
+I also follow some other online instructions.
